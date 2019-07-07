@@ -19,3 +19,29 @@ It also can perform these transformations, on each figure:
  - Shear
 
 I made use of this book: [Geometry For Computer Graphics](https://www.math.uni.lodz.pl//~maczar/ggk/Vince%20-%20Geometry%20for%20Computer%20Graphics.pdf).
+
+<hr>
+
+### some pictures from the old project: 
+
+<br>
+
+<p align="center">
+  <img src="./pictures/lines.png" width="350" alt="Random Lines And Their Intersection">
+  <img src="./pictures/segments.png" width="350" alt="Random Segments And Their Intersection">
+</p>
+
+<p align="center">
+  <img src="./pictures/mixt.png" width="350" alt="Random Lines And Segments And Their Intersection">
+  <img src="./pictures/middle.png" width="350" alt="Random Triangle And It's Middle Lines">
+</p>
+
+<p align="center">
+  <img src="./pictures/heights.png" width="350" alt="Random Triangle And It's Heights">
+  <img src="./pictures/medians.png" width="350" alt="Random Triangle And It's Medians">
+</p>
+
+<p align="center">
+  <img src="./pictures/mediators.png" width="350" alt="Random Triangle And It's Mediators">
+  <img src="./pictures/bisectors.png" width="350" alt="Random Triangle And It's Bisectors">
+</p>
